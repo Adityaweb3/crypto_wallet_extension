@@ -1,7 +1,7 @@
 {
-  "name": "M'Wallet",
+  "name": "Ind'Wallet",
   "version": "1.0.0",
-  "description": "Your First Crypto Wallet Extension",
+  "description": "Your First Indian Crypto Wallet Extension",
   "manifest_version": 3,
   "action": {
     "default_popup": "index.html",
